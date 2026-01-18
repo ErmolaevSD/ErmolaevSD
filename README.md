@@ -1,4 +1,4 @@
-# 👋 Привет, я [Сергей Ермолаев] 
+# 👋 Привет, я Сергей Ермолаев 
 ### Начинающий Java backend разработчик
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weekendkas)
@@ -55,10 +55,8 @@
 
 ## 🎯 Цели на ближайшее будущее
 
-- [ ] Изучить Spring Security более глубоко
-- [ ] Написать пет-проект с микросервисной архитектурой
-- [ ] Изучить message brokers (Kafka/RabbitMQ)
-- [ ] Подготовиться к сертификации OCA/OCP
+- [ ] Изучить брокер сообщений - Kafka
+
 
 ---
 
