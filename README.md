@@ -43,10 +43,6 @@
 ### Онлайн-курсы
 - **Яндекс Практикум** - "Java Developer"
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ErmolaevSD&show_icons=true&theme=default)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ErmolaevSD&layout=compact&theme=default)
-
 ## 📫 Контакты
 
 - **Email:** ermolaev.s.d@icloud.com
